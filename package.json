@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mqtt": "^3.0.0",
+	"lunar-calendar": "^0.1.4"
+  }
+}
