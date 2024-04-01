@@ -1,0 +1,19 @@
+.container{
+		padding: 1rem;
+		background-color: $u-bg-color;
+		.list-item{
+			padding: 1rem;
+			margin-bottom: 1rem ;
+			border-radius: 15rpx;
+			background-color: #fff;
+		}
+		.flex{
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+		.title-tag{
+			padding-left: .5rem;
+			border-left: solid red 4px;
+		}
+	}
